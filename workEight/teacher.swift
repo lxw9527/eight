@@ -2,8 +2,8 @@
 //  teacher.swift
 //  workEight
 //
-//  Created by jiang on 2018/11/12.
-//  Copyright © 2018年 jiang. All rights reserved.
+//  Created by student on 2018/11/12.
+//  Copyright © 2018年 2016110428. All rights reserved.
 //
 
 import Foundation

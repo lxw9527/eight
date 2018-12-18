@@ -178,7 +178,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
-				ORGANIZATIONNAME = jiang;
+				ORGANIZATIONNAME = 2016110428;
 				TargetAttributes = {
 					EE0296C92198484200C29A85 = {
 						CreatedOnToolsVersion = 9.4.1;
@@ -429,7 +429,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = jiang.workEight;
+				PRODUCT_BUNDLE_IDENTIFIER = luxinwe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -447,7 +447,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = jiang.workEight;
+				PRODUCT_BUNDLE_IDENTIFIER = luxinwe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
